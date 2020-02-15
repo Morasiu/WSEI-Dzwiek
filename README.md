@@ -1,2 +1,3 @@
 # WSEI-Dzwiek
-Project for sound classes
+
+[Co zrobiłem?](Assets/Moje/Opis.md)
